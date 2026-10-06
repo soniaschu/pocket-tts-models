@@ -1,1 +1,1 @@
-# -pocket-tts-models
+# -pocket-tts-models# tts-pocket-de-cpu.bkg
